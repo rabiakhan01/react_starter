@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Design your app using tailwind by rabia khan in maqware solutions
+          Design your app using tailwind by rabia khan in maqware solutions first day
         </a>
       </header>
     </div>
