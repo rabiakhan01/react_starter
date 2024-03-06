@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Design your app using tailwind 
+          Design your app using tailwind by rabia khan
         </a>
       </header>
     </div>
