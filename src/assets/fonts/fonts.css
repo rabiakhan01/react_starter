@@ -1,0 +1,8 @@
+@font-face{
+    font-family: CustomFont;
+    src: url('Billie_Eilish.otf'),
+         url('billie_eilish.ttf'),
+  }
+  h2{
+    font-family: "CustomFont";
+  }
