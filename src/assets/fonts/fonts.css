@@ -1,8 +1,10 @@
 @font-face{
-    font-family: CustomFont;
+    font-family: Gumela Regular;
     src: url('Gumela_Regular.ttf'),
          
   }
-  h2{
-    font-family: "CustomFont";
+*{
+    font-family: "Gumela Regular";
+    font-weight: normal;
+    font-size: 20px;
   }
