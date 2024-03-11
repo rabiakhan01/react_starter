@@ -16,6 +16,10 @@ const imageSource = {
     Amazon: require('./Icons/amazon.png'),
     Shopify: require('./Icons/Shopify.png'),
     Facebook: require('./Icons/Facebook.png'),
+    Sidebar: require('./Portfolio/sidebar.png'),
+    Ecommerce: require('./Portfolio/ecommerce.png'),
+    HOC: require('./Portfolio/hoc.png'),
+    MusicApp: require('./Portfolio/musicapp.png')
 
 
 

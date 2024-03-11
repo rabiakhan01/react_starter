@@ -23,7 +23,7 @@ const Works = () => {
         </div>
         </div>
         <div className="relative">
-        <div className="left-64 relative w-72 h-72 bg-white rounded-full shadow-2xl shadow-slate-300">
+        <div className="left-60 relative w-72 h-72 bg-white rounded-full shadow-2xl shadow-slate-300">
         <div className="absolute -top-14 left-24 w-24 h-24 rounded-full border-4 border-gray-100 flex items-center justify-center bg-white ">
         <img src ={imageSource.Upwork} alt="upwork" className="w-12 h-12"/>
         </div>
@@ -41,7 +41,7 @@ const Works = () => {
         </div>
         </div>
         <div className="absolute -z-10 rounded-full h-52 w-52 bg-blue-800 left-96 -top-10"></div>
-        <div className="absolute -z-10 rounded-full h-52 w-52 bg-yellow-600 left-96 top-36">Yellow</div>
+        <div className="absolute -z-10 rounded-full h-52 w-52 bg-yellow-500 left-96 top-24">Yellow</div>
         </div>
         </div>
     );
