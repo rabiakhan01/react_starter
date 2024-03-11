@@ -2,7 +2,7 @@ import React from 'react';
 import Buttons from '../Buttons/Button';
 const navBar = () => {
     return(
-        <div className='flex flex-wrap justify-between h-12 px-10 py-3'>
+        <div className='flex flex-wrap justify-between h-12  py-3'>
         <div className='flex-1 items-center flex gap-2'>
         <div className='font-bold text-lg'>Andrew</div>
         <span>Toggle</span>

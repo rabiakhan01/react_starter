@@ -4,7 +4,7 @@ import imageSource from "../../assets/images/images";
 import FloatingDiv from "../FloatingDiv/FloatingDiv";
 const Intro = () => {
     return (
-        <div className="flex flex-wrap mt-24 p-10">
+        <div className="flex flex-wrap mt-24">
             <div className="flex flex-1 realtive flex-col gap-6">
                 <div className="flex flex-col">
                     <span className="text-5xl text-black font-bold">Hy! I Am</span>

@@ -7,7 +7,7 @@ import Experience from './components/Experience/Experience';
 import Works from './components/Works/Works';
 function App() {
   return (
-    <div>
+    <div className='pl-20'>
       <Navbar />
       <Intro />
       <Services />
