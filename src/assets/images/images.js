@@ -26,9 +26,6 @@ const imageSource = {
     profile4: require('./Profile/profile4.jpg'),
     profile5: require('./Profile/profile5.jpg'),
     profile6: require('./Profile/profile6.jpg'),
-
-
-
 }
 
 export default imageSource;
