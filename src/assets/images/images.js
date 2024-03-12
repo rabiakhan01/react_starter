@@ -19,7 +19,13 @@ const imageSource = {
     Sidebar: require('./Portfolio/sidebar.png'),
     Ecommerce: require('./Portfolio/ecommerce.png'),
     HOC: require('./Portfolio/hoc.png'),
-    MusicApp: require('./Portfolio/musicapp.png')
+    MusicApp: require('./Portfolio/musicapp.png'),
+    profile1: require('./Profile/profile1.jpg'),
+    profile2: require('./Profile/profile2.jpg'),
+    profile3: require('./Profile/profile3.jpg'),
+    profile4: require('./Profile/profile4.jpg'),
+    profile5: require('./Profile/profile5.jpg'),
+    profile6: require('./Profile/profile6.jpg'),
 
 
 
