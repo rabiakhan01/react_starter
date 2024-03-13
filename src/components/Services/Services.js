@@ -5,7 +5,7 @@ import imageSource from '../../assets/images/images';
 import Resume from './RabiaKhanCV.pdf'
 const Services = () => {
     return(
-           <div className='flex mt-36 mb-80 h-4/5 '>
+           <div className='flex mt-36 mb-80 h-4/5 pl-24'>
            <div className='flex flex-col relative gap-5'>
            <span className='font-bold text-4xl text-black'>My Awesome</span>
            <span className='font-bold text-4xl text-yellow-500'>Services</span>

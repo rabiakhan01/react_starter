@@ -26,6 +26,9 @@ const imageSource = {
     profile4: require('./Profile/profile4.jpg'),
     profile5: require('./Profile/profile5.jpg'),
     profile6: require('./Profile/profile6.jpg'),
+
+    /* images for footer*/
+    Wave: require('./wave.png'),
 }
 
 export default imageSource;
