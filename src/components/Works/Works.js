@@ -5,7 +5,7 @@ const Works = () => {
     return(
         <div className='flex mt-36 mb-80 h-4/5 pl-24'>
         <div className='flex flex-col relative gap-5'>
-        <span className='font-bold text-4xl text-black'>Works for All these</span>
+        <span className='font-bold text-4xl text-black dark:text-white'>Works for All these</span>
         <span className='font-bold text-4xl text-yellow-500'>Brands & Clients</span>
         <span className='text-gray-600 text-sm'>
         lorium opsium is simply dummy text of printing  of printing Loream
@@ -19,11 +19,11 @@ const Works = () => {
         
         <Buttons name="Hire Me" />
         
-        <div className="absolute w-96 h-48 rounded-xl bg-sky-200 blur-3xl right-96 top-80">
+        <div className="absolute w-96 h-48 rounded-xl bg-sky-200 blur-3xl right-96 top-80 dark:bg-black">
         </div>
         </div>
         <div className="relative">
-        <div className="left-60 relative w-72 h-72 bg-white rounded-full shadow-2xl shadow-slate-300">
+        <div className="left-44 relative w-72 h-72 bg-white rounded-full shadow-2xl shadow-slate-300">
         <div className="absolute -top-14 left-24 w-24 h-24 rounded-full border-4 border-gray-100 flex items-center justify-center bg-white ">
         <img src ={imageSource.Upwork} alt="upwork" className="w-12 h-12"/>
         </div>

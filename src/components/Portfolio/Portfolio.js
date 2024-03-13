@@ -6,7 +6,7 @@ const Portfolio = () => {
     return(
 
         <div className=" flex flex-col justify-center items-center gap-4 mb-20">
-        <span className="text-black text-3xl font-bold">Recent Projects</span>
+        <span className="text-black text-3xl font-bold dark:text-white">Recent Projects</span>
         <span className="text-4xl text-yellow-500 font-bold">Portfolio</span>
         <div className="w-full">
         <Swiper

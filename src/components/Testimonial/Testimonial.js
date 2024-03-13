@@ -43,13 +43,13 @@ const Testimonial = () => {
     return (
         <div className="mb-20 flex justify-center items-center flex-col h-screen mt-28 gap-8 relative">
             <div>
-                <span className="font-bold text-2xl text-black">Client always get </span>
-                <span className="font-bold text-2xl text-yellow-600">Exceptional Work </span>
-                <span className="font-bold text-2xl">from me...</span>
+                <span className="font-bold text-2xl text-black dark:text-white">Client always get </span>
+                <span className="font-bold text-2xl text-yellow-600  dark:text-white">Exceptional Work </span>
+                <span className="font-bold text-2xl ">from me...</span>
             </div>
-            <div className="absolute w-80 h-2/5 rounded-xl bg-purple-200 blur-3xl right-64 top-64">
+            <div className="absolute w-80 h-2/5 rounded-xl bg-purple-200 blur-3xl right-64 top-64 dark:bg-black">
             </div>
-            <div className="absolute w-2/5  h-96 rounded-xl bg-sky-200 blur-3xl left-2 top-56">
+            <div className="absolute w-2/5  h-96 rounded-xl bg-sky-200 blur-3xl left-2 top-56 dark:bg-black">
             </div>
            
            

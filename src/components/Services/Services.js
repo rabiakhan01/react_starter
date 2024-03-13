@@ -7,7 +7,7 @@ const Services = () => {
     return(
            <div className='flex mt-36 mb-80 h-4/5 pl-24'>
            <div className='flex flex-col relative gap-5'>
-           <span className='font-bold text-4xl text-black'>My Awesome</span>
+           <span className='font-bold text-4xl text-black dark:text-white'>My Awesome</span>
            <span className='font-bold text-4xl text-yellow-500'>Services</span>
            <span className='text-gray-600 text-sm'>
            lorium opsium is simply dummy text of printing  of printing Loream for the right div
@@ -40,9 +40,9 @@ const Services = () => {
            detail = "Lorium opsium dummy text are used in section"
            />
            </div>
-           <div className="absolute w-48 h-48 rounded-xl bg-purple-200 blur-3xl left-80 top-44">
+           <div className="absolute w-48 h-48 rounded-xl bg-purple-200 blur-3xl left-80 top-44 dark:bg-black">
             </div>
-            <div className="absolute w-80 h-48 rounded-xl bg-sky-200 blur-3xl right-96 top-64">
+            <div className="absolute w-80 h-48 rounded-xl bg-sky-200 blur-3xl right-96 top-64 dark:bg-black">
             </div>
            </div>
            </div>

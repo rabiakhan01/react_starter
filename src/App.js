@@ -9,9 +9,11 @@ import Portfolio from './components/Portfolio/Portfolio';
 import Testimonial from './components/Testimonial/Testimonial';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
+
 function App() {
+  
   return (
-    <div>
+    <div className='bg-white dark:bg-black dark:text-white'>
       <Navbar />
       <Intro />
       <Services />

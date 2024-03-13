@@ -7,7 +7,7 @@ const Intro = () => {
         <div className="flex flex-wrap mt-24 pl-24">
             <div className="flex flex-1 realtive flex-col gap-6">
                 <div className="flex flex-col">
-                    <span className="text-5xl text-black font-bold">Hy! I Am</span>
+                    <span className="text-5xl text-black font-bold dark:text-white">Hy! I Am</span>
                     <span className="text-yellow-500 font-bold text-5xl">Andrew Thomas</span>
                     <span className="font-thin text-sm mt-5 text-gray-600">Frontend Developer with high level of experience in web designing and development, producting the Quality work</span>
                 </div>
@@ -29,9 +29,9 @@ const Intro = () => {
              <div className="absolute z-10 -bottom-3 left-1">
              <FloatingDiv imgSrc={imageSource.Thumbup} text1 = "Best Design" text2= "Award"/>
              </div>
-             <div className="absolute w-28 h-80 rounded-xl bg-pink-200 blur-3xl right-0 -top-20">
+             <div className="absolute w-28 h-80 rounded-xl bg-pink-200 blur-3xl right-0 -top-20 dark:bg-black">
             </div>
-            <div className="absolute w-60 h-96 rounded-xl bg-sky-200 blur-3xl right-96 top-48">
+            <div className="absolute w-60 h-96 rounded-xl bg-sky-200 blur-3xl right-96 top-48 dark:bg-black">
             </div>
             </div>
         </div>

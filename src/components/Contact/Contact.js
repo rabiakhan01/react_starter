@@ -33,7 +33,7 @@ const Contact = () => {
                 <div>
                     <span className="text-3xl font-bold text-black">Get in touch </span><br />
                     <span className="text-3xl font-bold text-yellow-500">Contact me</span>
-                    <div className="w-46  h-96 rounded-xl bg-sky-200 blur-3xl right-96 top-64">
+                    <div className="w-46  h-96 rounded-xl bg-sky-200 blur-3xl right-96 top-64 dark:bg-black">
                     </div>
                     
 
@@ -46,7 +46,7 @@ const Contact = () => {
                     <textarea name="message" className="h-16 w-80 outline-none p-1.5 border-2 border-yellow-500 rounded-lg text-sm z-10" placeholder="Messaege" />
                     <Buttons name="Send"/> 
                     <span>{isDone && "Thanks for connecting me I will reply you soon." }</span>
-                    <div className=" absolute  w-80 h-2/5 rounded-xl bg-purple-200 blur-3xl right-72 -top-8">
+                    <div className=" absolute  w-80 h-2/5 rounded-xl bg-purple-200 blur-3xl right-72 -top-8 ">
                     </div>
                 </form>
             </div>
